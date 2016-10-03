@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>magnus</sys_created_by>
-            <sys_created_on>2016-10-03 12:42:49</sys_created_on>
-            <sys_id>a47ca3e4db5a6200ed5df6fdbf961929</sys_id>
+            <sys_created_on>2016-10-03 21:36:03</sys_created_on>
+            <sys_id>6f7665b4dbda6200ed5df6fdbf961980</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_26624_loaner_req_loaner_request" sys_domain="global" view="Default view">b6c0cb18db166200ed5df6fdbf9619d0</sys_ui_section>
             <sys_updated_by>magnus</sys_updated_by>
-            <sys_updated_on>2016-10-03 12:42:49</sys_updated_on>
+            <sys_updated_on>2016-10-03 21:36:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>u_requested_for</element>
             <position>1</position>
             <sys_created_by>magnus</sys_created_by>
-            <sys_created_on>2016-10-03 12:42:49</sys_created_on>
-            <sys_id>287ca3e4db5a6200ed5df6fdbf961929</sys_id>
+            <sys_created_on>2016-10-03 21:36:03</sys_created_on>
+            <sys_id>ef7665b4dbda6200ed5df6fdbf961980</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_26624_loaner_req_loaner_request" sys_domain="global" view="Default view">b6c0cb18db166200ed5df6fdbf9619d0</sys_ui_section>
             <sys_updated_by>magnus</sys_updated_by>
-            <sys_updated_on>2016-10-03 12:42:49</sys_updated_on>
+            <sys_updated_on>2016-10-03 21:36:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>assigned_to</element>
             <position>2</position>
             <sys_created_by>magnus</sys_created_by>
-            <sys_created_on>2016-10-03 12:42:49</sys_created_on>
-            <sys_id>a87ca3e4db5a6200ed5df6fdbf961929</sys_id>
+            <sys_created_on>2016-10-03 21:36:03</sys_created_on>
+            <sys_id>637665b4dbda6200ed5df6fdbf961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_26624_loaner_req_loaner_request" sys_domain="global" view="Default view">b6c0cb18db166200ed5df6fdbf9619d0</sys_ui_section>
             <sys_updated_by>magnus</sys_updated_by>
-            <sys_updated_on>2016-10-03 12:42:49</sys_updated_on>
+            <sys_updated_on>2016-10-03 21:36:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>cmdb_ci</element>
             <position>3</position>
             <sys_created_by>magnus</sys_created_by>
-            <sys_created_on>2016-10-03 12:42:49</sys_created_on>
-            <sys_id>2c7ca3e4db5a6200ed5df6fdbf961929</sys_id>
+            <sys_created_on>2016-10-03 21:36:03</sys_created_on>
+            <sys_id>e37665b4dbda6200ed5df6fdbf961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_26624_loaner_req_loaner_request" sys_domain="global" view="Default view">b6c0cb18db166200ed5df6fdbf9619d0</sys_ui_section>
             <sys_updated_by>magnus</sys_updated_by>
-            <sys_updated_on>2016-10-03 12:42:49</sys_updated_on>
+            <sys_updated_on>2016-10-03 21:36:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>magnus</sys_created_by>
-            <sys_created_on>2016-10-03 12:42:49</sys_created_on>
-            <sys_id>ac7ca3e4db5a6200ed5df6fdbf961929</sys_id>
+            <sys_created_on>2016-10-03 21:36:03</sys_created_on>
+            <sys_id>677665b4dbda6200ed5df6fdbf961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_26624_loaner_req_loaner_request" sys_domain="global" view="Default view">b6c0cb18db166200ed5df6fdbf9619d0</sys_ui_section>
             <sys_updated_by>magnus</sys_updated_by>
-            <sys_updated_on>2016-10-03 12:42:49</sys_updated_on>
+            <sys_updated_on>2016-10-03 21:36:03</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>state</element>
             <position>5</position>
             <sys_created_by>magnus</sys_created_by>
-            <sys_created_on>2016-10-03 12:42:49</sys_created_on>
-            <sys_id>207ca3e4db5a6200ed5df6fdbf96192a</sys_id>
+            <sys_created_on>2016-10-03 21:36:03</sys_created_on>
+            <sys_id>e77665b4dbda6200ed5df6fdbf961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_26624_loaner_req_loaner_request" sys_domain="global" view="Default view">b6c0cb18db166200ed5df6fdbf9619d0</sys_ui_section>
             <sys_updated_by>magnus</sys_updated_by>
-            <sys_updated_on>2016-10-03 12:42:49</sys_updated_on>
+            <sys_updated_on>2016-10-03 21:36:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>u_start_date</element>
             <position>6</position>
             <sys_created_by>magnus</sys_created_by>
-            <sys_created_on>2016-10-03 12:42:49</sys_created_on>
-            <sys_id>a07ca3e4db5a6200ed5df6fdbf96192a</sys_id>
+            <sys_created_on>2016-10-03 21:36:03</sys_created_on>
+            <sys_id>6b7665b4dbda6200ed5df6fdbf961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_26624_loaner_req_loaner_request" sys_domain="global" view="Default view">b6c0cb18db166200ed5df6fdbf9619d0</sys_ui_section>
             <sys_updated_by>magnus</sys_updated_by>
-            <sys_updated_on>2016-10-03 12:42:49</sys_updated_on>
+            <sys_updated_on>2016-10-03 21:36:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>u_end_date</element>
             <position>7</position>
             <sys_created_by>magnus</sys_created_by>
-            <sys_created_on>2016-10-03 12:42:49</sys_created_on>
-            <sys_id>247ca3e4db5a6200ed5df6fdbf96192a</sys_id>
+            <sys_created_on>2016-10-03 21:36:03</sys_created_on>
+            <sys_id>eb7665b4dbda6200ed5df6fdbf961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_26624_loaner_req_loaner_request" sys_domain="global" view="Default view">b6c0cb18db166200ed5df6fdbf9619d0</sys_ui_section>
             <sys_updated_by>magnus</sys_updated_by>
-            <sys_updated_on>2016-10-03 12:42:49</sys_updated_on>
+            <sys_updated_on>2016-10-03 21:36:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>u_item_type</element>
             <position>8</position>
             <sys_created_by>magnus</sys_created_by>
-            <sys_created_on>2016-10-03 12:42:49</sys_created_on>
-            <sys_id>a47ca3e4db5a6200ed5df6fdbf96192a</sys_id>
+            <sys_created_on>2016-10-03 21:36:03</sys_created_on>
+            <sys_id>6f7665b4dbda6200ed5df6fdbf961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_26624_loaner_req_loaner_request" sys_domain="global" view="Default view">b6c0cb18db166200ed5df6fdbf9619d0</sys_ui_section>
             <sys_updated_by>magnus</sys_updated_by>
-            <sys_updated_on>2016-10-03 12:42:49</sys_updated_on>
+            <sys_updated_on>2016-10-03 21:36:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -131,13 +131,13 @@
             <element>u_location_to_be_used</element>
             <position>9</position>
             <sys_created_by>magnus</sys_created_by>
-            <sys_created_on>2016-10-03 12:42:49</sys_created_on>
-            <sys_id>287ca3e4db5a6200ed5df6fdbf96192a</sys_id>
+            <sys_created_on>2016-10-03 21:36:03</sys_created_on>
+            <sys_id>ef7665b4dbda6200ed5df6fdbf961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_26624_loaner_req_loaner_request" sys_domain="global" view="Default view">b6c0cb18db166200ed5df6fdbf9619d0</sys_ui_section>
             <sys_updated_by>magnus</sys_updated_by>
-            <sys_updated_on>2016-10-03 12:42:49</sys_updated_on>
+            <sys_updated_on>2016-10-03 21:36:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -145,55 +145,69 @@
             <element>u_depot</element>
             <position>10</position>
             <sys_created_by>magnus</sys_created_by>
-            <sys_created_on>2016-10-03 12:42:49</sys_created_on>
-            <sys_id>a87ca3e4db5a6200ed5df6fdbf96192a</sys_id>
+            <sys_created_on>2016-10-03 21:36:03</sys_created_on>
+            <sys_id>637665b4dbda6200ed5df6fdbf961982</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_26624_loaner_req_loaner_request" sys_domain="global" view="Default view">b6c0cb18db166200ed5df6fdbf9619d0</sys_ui_section>
             <sys_updated_by>magnus</sys_updated_by>
-            <sys_updated_on>2016-10-03 12:42:49</sys_updated_on>
+            <sys_updated_on>2016-10-03 21:36:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_other</element>
+            <position>11</position>
+            <sys_created_by>magnus</sys_created_by>
+            <sys_created_on>2016-10-03 21:36:03</sys_created_on>
+            <sys_id>e37665b4dbda6200ed5df6fdbf961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_26624_loaner_req_loaner_request" sys_domain="global" view="Default view">b6c0cb18db166200ed5df6fdbf9619d0</sys_ui_section>
+            <sys_updated_by>magnus</sys_updated_by>
+            <sys_updated_on>2016-10-03 21:36:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>11</position>
+            <position>12</position>
             <sys_created_by>magnus</sys_created_by>
-            <sys_created_on>2016-10-03 12:42:49</sys_created_on>
-            <sys_id>2c7ca3e4db5a6200ed5df6fdbf96192a</sys_id>
+            <sys_created_on>2016-10-03 21:36:03</sys_created_on>
+            <sys_id>677665b4dbda6200ed5df6fdbf961982</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_26624_loaner_req_loaner_request" sys_domain="global" view="Default view">b6c0cb18db166200ed5df6fdbf9619d0</sys_ui_section>
             <sys_updated_by>magnus</sys_updated_by>
-            <sys_updated_on>2016-10-03 12:42:49</sys_updated_on>
+            <sys_updated_on>2016-10-03 21:36:03</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>12</position>
+            <position>13</position>
             <sys_created_by>magnus</sys_created_by>
-            <sys_created_on>2016-10-03 12:42:49</sys_created_on>
-            <sys_id>ac7ca3e4db5a6200ed5df6fdbf96192a</sys_id>
+            <sys_created_on>2016-10-03 21:36:03</sys_created_on>
+            <sys_id>e77665b4dbda6200ed5df6fdbf961982</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_26624_loaner_req_loaner_request" sys_domain="global" view="Default view">b6c0cb18db166200ed5df6fdbf9619d0</sys_ui_section>
             <sys_updated_by>magnus</sys_updated_by>
-            <sys_updated_on>2016-10-03 12:42:49</sys_updated_on>
+            <sys_updated_on>2016-10-03 21:36:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>13</position>
+            <position>14</position>
             <sys_created_by>magnus</sys_created_by>
-            <sys_created_on>2016-10-03 12:42:49</sys_created_on>
-            <sys_id>207ca3e4db5a6200ed5df6fdbf96192b</sys_id>
+            <sys_created_on>2016-10-03 21:36:03</sys_created_on>
+            <sys_id>6b7665b4dbda6200ed5df6fdbf961982</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_26624_loaner_req_loaner_request" sys_domain="global" view="Default view">b6c0cb18db166200ed5df6fdbf9619d0</sys_ui_section>
             <sys_updated_by>magnus</sys_updated_by>
-            <sys_updated_on>2016-10-03 12:42:49</sys_updated_on>
+            <sys_updated_on>2016-10-03 21:36:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
