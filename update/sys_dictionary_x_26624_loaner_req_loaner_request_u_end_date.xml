@@ -47,7 +47,7 @@
         <sys_created_by>magnus</sys_created_by>
         <sys_created_on>2016-10-03 12:42:40</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>b7c9aac1db122200ed5df6fdbf9619ff</sys_id>
+        <sys_id>c36ca685db122200ed5df6fdbf961955</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>End date</sys_name>
         <sys_package display_value="Loaner Request" source="x_26624_loaner_req">af1c3650db166200ed5df6fdbf961914</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="Loaner Request">af1c3650db166200ed5df6fdbf961914</sys_scope>
         <sys_update_name>sys_dictionary_x_26624_loaner_req_loaner_request_u_end_date</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2016-10-04 21:08:41</sys_updated_on>
+        <sys_updated_on>2016-10-04 21:20:05</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
