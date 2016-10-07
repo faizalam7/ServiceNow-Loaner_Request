@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Loaner Request" max_length="40" name="x_26624_loaner_req_loaner_request" type="collection"/>
+    <element extends="task" label="Loaner Request" max_length="40" name="x_26624_loaner_req_loaner_request" type="collection">
+        <element attributes="edge_encryption_enabled=true,barcode=true" label="Asset barcode" max_length="40" name="u_asset_barcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="sc" label="Depot" max_length="40" name="u_depot" type="string">
+            <choice/>
+        </element>
+        <element label="End date" mandatory="true" max_length="40" name="u_end_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="u_cmdb_ci_mobile_device" label="Item type" max_length="40" name="u_item_type" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Location to be used" max_length="40" name="u_location_to_be_used" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_other" type="string"/>
+        <element label="Requested for" mandatory="true" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
+        <element label="Start Date" mandatory="true" max_length="40" name="u_start_date" type="glide_date_time"/>
+    </element>
 </database>
