@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>magnus</sys_created_by>
             <sys_created_on>2016-10-03 12:42:41</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>6a6c63e4db5a6200ed5df6fdbf96194e</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_name>Item type</sys_name>

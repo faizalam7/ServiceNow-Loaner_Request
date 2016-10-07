@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>magnus</sys_created_by>
         <sys_created_on>2016-10-07 21:44:52</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4c9eca4adb122200ed5df6fdbf9619c7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>.admin</sys_name>

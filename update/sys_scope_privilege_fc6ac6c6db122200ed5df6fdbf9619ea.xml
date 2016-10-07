@@ -7,7 +7,7 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>magnus</sys_created_by>
         <sys_created_on>2016-10-07 21:25:17</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>fc6ac6c6db122200ed5df6fdbf9619ea</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ScopedGlideElement</sys_name>
