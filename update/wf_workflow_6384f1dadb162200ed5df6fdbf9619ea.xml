@@ -51,7 +51,7 @@
         <sys_class_name>wf_workflow</sys_class_name>
         <sys_created_by>magnus</sys_created_by>
         <sys_created_on>2016-10-08 14:28:23</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6384f1dadb162200ed5df6fdbf9619ea</sys_id>
