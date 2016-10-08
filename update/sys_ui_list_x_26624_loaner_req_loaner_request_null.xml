@@ -4,92 +4,152 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dad6405adb022200ed5df6fdbf9619fb</list_id>
+            <list_id display_value="x_26624_loaner_req_loaner_request" element="NULL" name="x_26624_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">02a47d5adb162200ed5df6fdbf961977</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2016-09-25 20:13:22</sys_created_on>
-            <sys_id>12d6405adb022200ed5df6fdbf9619fc</sys_id>
+            <sys_created_by>magnus</sys_created_by>
+            <sys_created_on>2016-10-08 14:28:50</sys_created_on>
+            <sys_id>9ea4b5dadb162200ed5df6fdbf96194a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2016-09-25 20:13:22</sys_updated_on>
+            <sys_updated_by>magnus</sys_updated_by>
+            <sys_updated_on>2016-10-08 14:28:50</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>priority</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dad6405adb022200ed5df6fdbf9619fb</list_id>
+            <element>active</element>
+            <list_id display_value="x_26624_loaner_req_loaner_request" element="NULL" name="x_26624_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">02a47d5adb162200ed5df6fdbf961977</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2016-09-25 20:13:22</sys_created_on>
-            <sys_id>92d6405adb022200ed5df6fdbf9619fc</sys_id>
+            <sys_created_by>magnus</sys_created_by>
+            <sys_created_on>2016-10-08 14:28:50</sys_created_on>
+            <sys_id>12a4b5dadb162200ed5df6fdbf96194b</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2016-09-25 20:13:22</sys_updated_on>
+            <sys_updated_by>magnus</sys_updated_by>
+            <sys_updated_on>2016-10-08 14:28:50</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>state</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dad6405adb022200ed5df6fdbf9619fb</list_id>
+            <element>activity_due</element>
+            <list_id display_value="x_26624_loaner_req_loaner_request" element="NULL" name="x_26624_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">02a47d5adb162200ed5df6fdbf961977</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2016-09-25 20:13:22</sys_created_on>
-            <sys_id>16d6405adb022200ed5df6fdbf9619fc</sys_id>
+            <sys_created_by>magnus</sys_created_by>
+            <sys_created_on>2016-10-08 14:28:50</sys_created_on>
+            <sys_id>92a4b5dadb162200ed5df6fdbf96194b</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2016-09-25 20:13:22</sys_updated_on>
+            <sys_updated_by>magnus</sys_updated_by>
+            <sys_updated_on>2016-10-08 14:28:50</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>assigned_to</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dad6405adb022200ed5df6fdbf9619fb</list_id>
+            <element>additional_assignee_list</element>
+            <list_id display_value="x_26624_loaner_req_loaner_request" element="NULL" name="x_26624_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">02a47d5adb162200ed5df6fdbf961977</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2016-09-25 20:13:22</sys_created_on>
-            <sys_id>96d6405adb022200ed5df6fdbf9619fc</sys_id>
+            <sys_created_by>magnus</sys_created_by>
+            <sys_created_on>2016-10-08 14:28:50</sys_created_on>
+            <sys_id>16a4b5dadb162200ed5df6fdbf96194b</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2016-09-25 20:13:22</sys_updated_on>
+            <sys_updated_by>magnus</sys_updated_by>
+            <sys_updated_on>2016-10-08 14:28:50</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>short_description</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dad6405adb022200ed5df6fdbf9619fb</list_id>
+            <element>approval</element>
+            <list_id display_value="x_26624_loaner_req_loaner_request" element="NULL" name="x_26624_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">02a47d5adb162200ed5df6fdbf961977</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2016-09-25 20:13:22</sys_created_on>
-            <sys_id>1ad6405adb022200ed5df6fdbf9619fc</sys_id>
+            <sys_created_by>magnus</sys_created_by>
+            <sys_created_on>2016-10-08 14:28:50</sys_created_on>
+            <sys_id>96a4b5dadb162200ed5df6fdbf96194b</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2016-09-25 20:13:22</sys_updated_on>
+            <sys_updated_by>magnus</sys_updated_by>
+            <sys_updated_on>2016-10-08 14:28:50</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_class_name</element>
-            <list_id display_value="task" element="NULL" name="task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dad6405adb022200ed5df6fdbf9619fb</list_id>
+            <element>approval_history</element>
+            <list_id display_value="x_26624_loaner_req_loaner_request" element="NULL" name="x_26624_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">02a47d5adb162200ed5df6fdbf961977</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
-            <sys_created_by>system</sys_created_by>
-            <sys_created_on>2016-09-25 20:13:22</sys_created_on>
-            <sys_id>9ad6405adb022200ed5df6fdbf9619fc</sys_id>
+            <sys_created_by>magnus</sys_created_by>
+            <sys_created_on>2016-10-08 14:28:50</sys_created_on>
+            <sys_id>1aa4b5dadb162200ed5df6fdbf96194b</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2016-09-25 20:13:22</sys_updated_on>
+            <sys_updated_by>magnus</sys_updated_by>
+            <sys_updated_on>2016-10-08 14:28:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approval_set</element>
+            <list_id display_value="x_26624_loaner_req_loaner_request" element="NULL" name="x_26624_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">02a47d5adb162200ed5df6fdbf961977</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>magnus</sys_created_by>
+            <sys_created_on>2016-10-08 14:28:50</sys_created_on>
+            <sys_id>9aa4b5dadb162200ed5df6fdbf96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>magnus</sys_updated_by>
+            <sys_updated_on>2016-10-08 14:28:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_26624_loaner_req_loaner_request" element="NULL" name="x_26624_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">02a47d5adb162200ed5df6fdbf961977</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>magnus</sys_created_by>
+            <sys_created_on>2016-10-08 14:28:50</sys_created_on>
+            <sys_id>1ea4b5dadb162200ed5df6fdbf96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>magnus</sys_updated_by>
+            <sys_updated_on>2016-10-08 14:28:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assignment_group</element>
+            <list_id display_value="x_26624_loaner_req_loaner_request" element="NULL" name="x_26624_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">02a47d5adb162200ed5df6fdbf961977</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>magnus</sys_created_by>
+            <sys_created_on>2016-10-08 14:28:50</sys_created_on>
+            <sys_id>9ea4b5dadb162200ed5df6fdbf96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>magnus</sys_updated_by>
+            <sys_updated_on>2016-10-08 14:28:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>business_duration</element>
+            <list_id display_value="x_26624_loaner_req_loaner_request" element="NULL" name="x_26624_loaner_req_loaner_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">02a47d5adb162200ed5df6fdbf961977</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>magnus</sys_created_by>
+            <sys_created_on>2016-10-08 14:28:50</sys_created_on>
+            <sys_id>12a4b5dadb162200ed5df6fdbf96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>magnus</sys_updated_by>
+            <sys_updated_on>2016-10-08 14:28:50</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>

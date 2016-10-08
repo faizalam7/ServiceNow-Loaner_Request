@@ -3,7 +3,15 @@
     <element extends="task" label="Loaner Request" max_length="40" name="x_26624_loaner_req_loaner_request" type="collection">
         <element attributes="edge_encryption_enabled=true,barcode=true" label="Asset barcode" max_length="40" name="u_asset_barcode" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="sc" label="Depot" max_length="40" name="u_depot" type="string">
-            <choice/>
+            <choice>
+                <element label="New York" sequence="0" value="ny"/>
+                <element label="London" sequence="1" value="london"/>
+                <element label="Buenos Aires" sequence="2" value="ba"/>
+                <element label="Santa Clara" sequence="3" value="sc"/>
+                <element label="Singapore" sequence="4" value="singapore"/>
+                <element label="Sydney" sequence="5" value="sydney"/>
+                <element label="Other" sequence="6" value="other"/>
+            </choice>
         </element>
         <element label="End date" mandatory="true" max_length="40" name="u_end_date" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="u_cmdb_ci_mobile_device" label="Item type" max_length="40" name="u_item_type" type="string">
