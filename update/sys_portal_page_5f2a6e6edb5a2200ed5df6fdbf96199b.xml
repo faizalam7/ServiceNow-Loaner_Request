@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2016-10-09 13:05:27">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>magnus</sys_created_by>
+        <sys_created_on>2016-10-09 13:01:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5f2a6e6edb5a2200ed5df6fdbf96199b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My Loaner Request Homepage</sys_name>
+        <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Loaner Request">af1c3650db166200ed5df6fdbf961914</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>magnus</sys_updated_by>
+        <sys_updated_on>2016-10-09 13:01:09</sys_updated_on>
+        <title>My Loaner Request Homepage</title>
+        <user display_value="Magnus Ringkjøb">632dc3a2db022200ed5df6fdbf96198a</user>
+        <view/>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="My Loaner Request Homepage">5f2a6e6edb5a2200ed5df6fdbf96199b</page>
+                <summary/>
+                <sys_created_by>magnus</sys_created_by>
+                <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                <sys_id>635a26aedb5a2200ed5df6fdbf961954</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>magnus</sys_updated_by>
+                <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">635a26aedb5a2200ed5df6fdbf961954</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>235a26aedb5a2200ed5df6fdbf961956</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>c828ea6edb5a2200ed5df6fdbf96190f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">635a26aedb5a2200ed5df6fdbf961954</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>275a26aedb5a2200ed5df6fdbf961955</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;amp;amp;sysparm_parent=e15706fc0a0a0aa7007fc21e1ab70c2f&amp;amp;amp;amp;sysparm_catalog=e0d08b13c3330100c8b837659bba8fb4&amp;amp;amp;amp;sysparm_catalog_view=catalog_default</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">635a26aedb5a2200ed5df6fdbf961954</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>2b5a26aedb5a2200ed5df6fdbf961954</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>com.glideapp.servicecatalog.RenderCategory</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_link_class</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">635a26aedb5a2200ed5df6fdbf961954</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>635a26aedb5a2200ed5df6fdbf961955</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>category_title_link</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">635a26aedb5a2200ed5df6fdbf961954</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>675a26aedb5a2200ed5df6fdbf961954</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>e15706fc0a0a0aa7007fc21e1ab70c2f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">635a26aedb5a2200ed5df6fdbf961954</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>6f5a26aedb5a2200ed5df6fdbf961955</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='category_title_link' href='com.glideapp.servicecatalog_category_view.do?v=1&amp;amp;sysparm_parent=e15706fc0a0a0aa7007fc21e1ab70c2f&amp;amp;sysparm_catalog=e0d08b13c3330100c8b837659bba8fb4&amp;amp;sysparm_catalog_view=catalog_default'&amp;gt;Can We Help You?&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>macro</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">635a26aedb5a2200ed5df6fdbf961954</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>a35a26aedb5a2200ed5df6fdbf961954</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>sc_catalog_homepage_category_item</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog_view</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">635a26aedb5a2200ed5df6fdbf961954</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>ab5a26aedb5a2200ed5df6fdbf961955</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>catalog_default</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>catalog</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">635a26aedb5a2200ed5df6fdbf961954</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>af5a26aedb5a2200ed5df6fdbf961954</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>e0d08b13c3330100c8b837659bba8fb4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">635a26aedb5a2200ed5df6fdbf961954</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>e75a26aedb5a2200ed5df6fdbf961955</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>category</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_title</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">635a26aedb5a2200ed5df6fdbf961954</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>eb5a26aedb5a2200ed5df6fdbf961954</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="My Loaner Request Homepage">5f2a6e6edb5a2200ed5df6fdbf96199b</page>
+                <summary/>
+                <sys_created_by>magnus</sys_created_by>
+                <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                <sys_id>675a26aedb5a2200ed5df6fdbf961956</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>magnus</sys_updated_by>
+                <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>name</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">675a26aedb5a2200ed5df6fdbf961956</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>2f5a26aedb5a2200ed5df6fdbf961956</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>example_cool_clock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer_id</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">675a26aedb5a2200ed5df6fdbf961956</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>6b5a26aedb5a2200ed5df6fdbf961956</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>7c3525050a0a0ab8000968f6d8c87ea0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">675a26aedb5a2200ed5df6fdbf961956</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>a35a26aedb5a2200ed5df6fdbf961957</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>c828ea6edb5a2200ed5df6fdbf96190f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">675a26aedb5a2200ed5df6fdbf961956</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>a75a26aedb5a2200ed5df6fdbf961956</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderJavascript</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">675a26aedb5a2200ed5df6fdbf961956</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>ef5a26aedb5a2200ed5df6fdbf961956</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>World Clocks</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone999</dropzone>
+                <offset>0</offset>
+                <page display_value="My Loaner Request Homepage">5f2a6e6edb5a2200ed5df6fdbf96199b</page>
+                <summary/>
+                <sys_created_by>magnus</sys_created_by>
+                <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                <sys_id>f75a26aedb5a2200ed5df6fdbf961957</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>magnus</sys_updated_by>
+                <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">f75a26aedb5a2200ed5df6fdbf961957</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>3b5a26aedb5a2200ed5df6fdbf961957</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>7079eeeadb5a2200ed5df6fdbf9619cb</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">f75a26aedb5a2200ed5df6fdbf961957</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>735ae6aedb5a2200ed5df6fdbf961936</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>Loaner Reports by Item Type</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">f75a26aedb5a2200ed5df6fdbf961957</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>bf5ae6aedb5a2200ed5df6fdbf961935</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">f75a26aedb5a2200ed5df6fdbf961957</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>fb5a26aedb5a2200ed5df6fdbf961957</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 09/10/2016 15:01:59">f75a26aedb5a2200ed5df6fdbf961957</portal_section>
+                        <sys_created_by>magnus</sys_created_by>
+                        <sys_created_on>2016-10-09 13:01:59</sys_created_on>
+                        <sys_id>fb5ae6aedb5a2200ed5df6fdbf961935</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>magnus</sys_updated_by>
+                        <sys_updated_on>2016-10-09 13:01:59</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
